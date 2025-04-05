@@ -37,7 +37,7 @@
 
 ## 🐍 Contribuições animadas
 
-![snake gif](https://github.com/ykaruus/ykaruus/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ykaruus/ykaruus/blob/output/github-contribution-grid-snake-dark.svg?palette=dracula)
 
 ---
 
