@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá! Eu sou o Ykaru</h1>
+<h1 align="left">👋 Hi There, I am Ykarus</h1>
 
-<p align="center">
-  Jovem desenvolvedor backend focado em Node.js, apaixonado por criar sistemas úteis e dinâmicos para a Web.
+<p align="left">
+  I am a web developer with a lot experience of building things for web.
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ## 🧩 Projetos em Destaque
 
-- 🔔 [Agendador de Aulas](https://github.com/ykaruus/AgendadorAula) – Sistema de agendamento com filtros, exclusão e notificações personalizadas.
+- 🔔 [BotKairus](https://github.com/ykaruus/BotKairus) – Bot de discord com integração da plurall API
 - 📍 API Localização Lojas Verdão – API real com Node.js e MongoDB para localização de unidades.
 - 🔐 Sistema de Autenticação com JWT – Middleware seguro com verificação de permissão.
 
@@ -32,12 +32,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ykaruus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykaruus&layout=compact&langs_count=7&theme=radical"/>
 </p>
-
----
-
-## 🔥 Contribuições
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ykaruus&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
