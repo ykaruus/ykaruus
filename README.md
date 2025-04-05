@@ -35,7 +35,7 @@
 
 ---
 
-## 🐍 Contribuições animadas
+## 🐍 Contribuições
 
 ![snake gif](https://github.com/ykaruus/ykaruus/blob/output/github-contribution-grid-snake-dark.svg?palette=dracula)
 
@@ -44,7 +44,7 @@
 ## 📫 Contato
 
 - GitHub: [@ykaruus](https://github.com/ykaruus)
-- (Adicione seu LinkedIn, e-mail ou Discord aqui, se quiser!)
+- Secret: [Click here](https://ykarusdev.vercel.app/)
 
 ---
 
