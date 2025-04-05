@@ -24,3 +24,5 @@
   <a href="https://www.linkedin.com/in/icaro-gagarin-97116a31a/">LinkedIn</a>
   
 </p>
+
+![snake gif](https://github.com/ykaruus/ykaruus/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
