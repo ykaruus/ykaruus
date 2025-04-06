@@ -47,5 +47,3 @@
 - Secret: [Click here](https://ykarusdev.vercel.app/)
 
 ---
-
-> "Sempre tentando aprender mais e entregar com qualidade." 🚀
