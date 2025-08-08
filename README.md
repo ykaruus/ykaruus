@@ -1,7 +1,7 @@
 <h1 align="left">👋Olá meu nome é Icaro </h1>
 
 <p align="left">
-Gosto de dar a bunda pro gabriel e vinicius e kauan enquanto programdo, é muito gostoso tambem opero como garoto de programa o custo é 10 reais anal
+Gosto de dar a bunda pro gabriel e vinicius e kauan enquanto programdo, é muito gostoso tambem opero como garoto de programa o custo é 10 reais anal e alias Lucas Oliveira Guimarães é o melhor programdor do mundo com a melhor linguagem de programação do mundo (lua) 
 </p>
 
 ---
