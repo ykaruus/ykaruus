@@ -1,7 +1,7 @@
 <h1 align="left">👋Olá meu nome é Icaro </h1>
 
 <p align="left">
-Gosto de programar coisas para a web
+Gosto de dar a bunda pro gabriel e vinicius e kauan enquanto programdo, é muito gostoso tambem opero como garoto de programa o custo é 10 reais anal
 </p>
 
 ---
