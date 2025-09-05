@@ -1,7 +1,8 @@
-<h1 align="left">👋Olá meu nome é Icaro </h1>
+<h1 align="left">👋Olá meu nome é 伊卡罗 </h1>
 
 <p align="left">
-Gosto de criar coisas
+Gosto de dar a bunda muito, me ligue no 55 65 992105-6012 se quiser conversar rsrsrsrs
+Gosto do lula tambem
 </p>
 
 ---
