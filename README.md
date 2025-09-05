@@ -1,4 +1,4 @@
-<h1 align="left">👋Olá meu nome é 伊卡罗 </h1>
+<h1 align="left">👋Olá meu nome é Ykarus</h1>
 
 <p align="left">
 Meu nome é Ykarus e gosto de criar coisas para a web
