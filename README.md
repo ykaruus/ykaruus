@@ -20,6 +20,6 @@ Gosto do lula tambem
 
 ## 📫 Contato
 
-- GitHub: [@ykaruus](https://github.com/ykaruus)
+- GitHub: [@ykaruus](https://github.com/RyuTheDev)
 - Secret: [Click here](https://st.depositphotos.com/44517404/54399/i/450/depositphotos_543991368-stock-photo-rear-view-bare-hairy-back.jpg)
 ---
