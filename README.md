@@ -23,3 +23,4 @@ Gosto do lula tambem
 - GitHub: [@ykaruus](https://github.com/RyuTheDev)
 - Secret: [Click here](https://st.depositphotos.com/44517404/54399/i/450/depositphotos_543991368-stock-photo-rear-view-bare-hairy-back.jpg)
 ---
+Meu Presidente: [Click here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRloSZnU-3gR_dK7CNEjUXZdGujrA3bgn8kkg&s)
